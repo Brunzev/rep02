@@ -20,5 +20,13 @@ namespace rep02.Controllers
         public IActionResult FormularioContacto(){
             return View();
         }
+        [HttpPost]
+        public IActionResult FormularioContacto(string nombre, string apellido, string motivo, string mensaje){
+            Console.WriteLine(nombre);
+            Console.WriteLine(apellido);
+            Console.WriteLine(mensaje);
+            Console.WriteLine(motivo);
+            return RedirectToAction("FormularioContacto");
+        }
     }
 }
