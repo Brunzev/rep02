@@ -38,3 +38,14 @@ C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\ref\rep02.dll
 C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\rep02.pdb
 C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\rep02.genruntimeconfig.cache
 C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\rep02.csproj.CopyComplete
+C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\Razor\Views\Compra\PagaCompra.cshtml.g.cs
+C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\Razor\Views\Compra\ResumenCompra.cshtml.g.cs
+C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\Razor\Views\Cuenta\ActualizarPerfil.cshtml.g.cs
+C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\Razor\Views\Cuenta\IniciarSesion.cshtml.g.cs
+C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\Razor\Views\Cuenta\Registro.cshtml.g.cs
+C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\Razor\Views\Presentacion\FormularioContacto.cshtml.g.cs
+C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\Razor\Views\Presentacion\QuienesSomos.cshtml.g.cs
+C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\Razor\Views\Presentacion\ServicioProducto.cshtml.g.cs
+C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\Razor\Views\Ventas\CatalogoCompleto.cshtml.g.cs
+C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\Razor\Views\Ventas\ProductoDestacado.cshtml.g.cs
+C:\PROGRAMACIÓN I\rep02\obj\Debug\net5.0\Razor\Views\Ventas\Servicios.cshtml.g.cs
